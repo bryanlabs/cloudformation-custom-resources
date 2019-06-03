@@ -12,10 +12,10 @@ lambdalayers=(
 
 # uncomment the resources you want to use
 resources=(
-    # python/ramCreateResourceShare
-    # python/ec2CreateTransitGatewayRoute
-    # python/ec2CreateRoute
-    # python/ec2ZoneIds
+    python/ramCreateResourceShare
+    python/ec2CreateTransitGatewayRoute
+    python/ec2CreateRoute
+    python/ec2ZoneIds
     python/dsConnectDirectory
     python/dsShareDirectory
     python/dsAcceptSharedDirectory

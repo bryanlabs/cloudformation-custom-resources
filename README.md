@@ -1,17 +1,13 @@
 # cloudformation-custom-resources
-A repository of shared custom resources for cloudformation.
 
 
-Feel free to share any cloudformation custom resources you find useful. Please include some documentation on how to use it
 
-Naming Schema:
+**Cloudformation Custom Resources** - A collection of custom resources to be used in cloudformation.
 
-EG: python/dsAcceptSharedDirectory
+Feel free to use or contribute any custom resources you come across or develop. 
 
-boto3 client type = ds
-boto3 client call = AcceptSharedDirectory
+------------
+Format
+------------
+Each resource should come with test code, a working cloudformation example, and documentaion.
 
-
-Integration
-
-Blog Post

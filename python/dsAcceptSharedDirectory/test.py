@@ -38,7 +38,7 @@ def delete(event):
 
 event = {
     "ResourceProperties" : {
-        "ShareTargetIds" : ["546837296206","430151054399"],
+        "ShareTargetIds" : ["121212121212","212121212121"],
         "DirectoryId" : "d-90671c4dd3",
         "ShareNotes" : "my Shared Directory"
     }
